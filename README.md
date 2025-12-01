@@ -11,6 +11,6 @@ Hands-on networking labs focused on VLANs, routing, ACLs, NAT, DHCP, subnetting,
 🖧 **[Packet Tracer | Deploy Networking Devices](https://github.com/Pelumi-Johnson/Packet-Tracer-Deploy-Networking-Devices/tree/main)**
 
 ---
-🖧 **[🖧 Packet Tracer | Device Deployment & Network Cabling Lab](https://github.com/Pelumi-Johnson/Packet-Tracer-Device-Deployment-Network-Cabling-Lab/tree/main)**
+🖧 **[ Packet Tracer | Device Deployment & Network Cabling Lab](https://github.com/Pelumi-Johnson/Packet-Tracer-Device-Deployment-Network-Cabling-Lab/tree/main)**
 
 ---
