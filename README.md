@@ -1,6 +1,6 @@
 # 🖧 Network Engineering Labs
 
-Hands-on network engineering labs focused on building, configuring, and troubleshooting real-world network topologies.
+Hands-on network engineering labs focused on designing, building, and troubleshooting real-world network topologies.
 
 These labs cover core networking concepts including VLANs, routing, DHCP, NAT, subnetting, and secure switch/router configuration.
 
