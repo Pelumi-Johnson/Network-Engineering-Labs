@@ -6,7 +6,7 @@ These labs cover core networking concepts including VLANs, routing, DHCP, NAT, s
 
 ---
 
-## 📂 Lab Categories
+## Lab Categories
 
 ### 🧠 Personal Labs (Self-Directed Learning)
 Hands-on labs built independently to deepen understanding of real-world network design and troubleshooting.
