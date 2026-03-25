@@ -1,16 +1,49 @@
-# 🖧 Cisco Packet Tracer Networking Labs
-Hands-on networking labs focused on VLANs, routing, ACLs, NAT, DHCP, subnetting, and secure switch/router configuration.
+# 🖧 Network Engineering Labs
+
+Hands-on network engineering labs focused on building, configuring, and troubleshooting real-world network topologies.
+
+These labs cover core networking concepts including VLANs, routing, DHCP, NAT, subnetting, and secure switch/router configuration.
 
 ---
-🏠 **[My Local Network | Home Topology Lab](https://github.com/Pelumi-Johnson/-My-Local-Network-Home-Topology-Lab/tree/main)**
+
+## 📂 Lab Categories
+
+### 🧠 Personal Labs (Self-Directed Learning)
+Hands-on labs built independently to deepen understanding of real-world network design and troubleshooting.
+
+- Day 1 | Basic Network Topology Lab
 
 ---
-💻 **[Determine the IP Address Configuration of a Computer](https://github.com/Pelumi-Johnson/Determine-the-IP-Address-Configuration-of-a-Computer)**
+
+### 🎓 Per Scholas Labs
+Structured labs completed as part of formal training.
+
+- [My Local Network | Home Topology Lab](https://github.com/Pelumi-Johnson/My-Local-Network-Home-Topology-Lab/tree/main)
+- [Determine the IP Address Configuration of a Computer](https://github.com/Pelumi-Johnson/Determine-the-IP-Address-Configuration-of-a-Computer)
+- [Packet Tracer | Deploy Networking Devices](https://github.com/Pelumi-Johnson/Packet-Tracer-Deploy-Networking-Devices/tree/main)
+- [Packet Tracer | Device Deployment & Network Cabling Lab](https://github.com/Pelumi-Johnson/Packet-Tracer-Device-Deployment-Network-Cabling-Lab/tree/main)
 
 ---
-🖧 **[Packet Tracer | Deploy Networking Devices](https://github.com/Pelumi-Johnson/Packet-Tracer-Deploy-Networking-Devices/tree/main)**
+
+## 🔧 Tools & Technologies
+- Cisco Packet Tracer
+- TCP/IP Networking
+- CLI Configuration
+- Network Troubleshooting (Ping, IP Config)
 
 ---
-🖧 **[ Packet Tracer | Device Deployment & Network Cabling Lab](https://github.com/Pelumi-Johnson/Packet-Tracer-Device-Deployment-Network-Cabling-Lab/tree/main)**
+
+## 🎯 Purpose
+
+This repository documents my hands-on journey in network engineering.
+
+The goal is not just to complete labs, but to:
+- Understand how networks function  
+- Build real-world topologies  
+- Develop structured troubleshooting skills  
 
 ---
+
+## 🚀 Ongoing Progress
+
+New labs are continuously added as I deepen my understanding of networking concepts and real-world implementations.
