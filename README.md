@@ -11,7 +11,7 @@ These labs cover core networking concepts including VLANs, routing, DHCP, NAT, s
 ### 🧠 Personal Labs (Self-Directed Learning)
 Hands-on labs built independently to deepen understanding of real-world network design and troubleshooting.
 
-- Day 1 | Basic Network Topology Lab
+- [Day 1 | Basic Network Topology Lab](https://github.com/Pelumi-Johnson/Basic-Network-Topology-Lab/tree/main)
 
 ---
 
