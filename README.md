@@ -19,7 +19,7 @@ Hands-on labs built independently to deepen understanding of real-world network 
 ### 🎓 Per Scholas Labs
 Structured labs completed as part of formal training.
 
-- [My Local Network | Home Topology Lab](https://github.com/Pelumi-Johnson/My-Local-Network-Home-Topology-Lab/tree/main)
+- [My Local Network | Home Topology Lab](https://github.com/Pelumi-Johnson/-My-Local-Network-Home-Topology-Lab)
 - [Determine the IP Address Configuration of a Computer](https://github.com/Pelumi-Johnson/Determine-the-IP-Address-Configuration-of-a-Computer)
 - [Packet Tracer | Deploy Networking Devices](https://github.com/Pelumi-Johnson/Packet-Tracer-Deploy-Networking-Devices/tree/main)
 - [Packet Tracer | Device Deployment & Network Cabling Lab](https://github.com/Pelumi-Johnson/Packet-Tracer-Device-Deployment-Network-Cabling-Lab/tree/main)
