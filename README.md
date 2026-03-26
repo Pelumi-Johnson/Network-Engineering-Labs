@@ -12,6 +12,7 @@ These labs cover core networking concepts including VLANs, routing, DHCP, NAT, s
 Hands-on labs built independently to deepen understanding of real-world network design and troubleshooting.
 
 - [Day 1 | Basic Network Topology Lab](https://github.com/Pelumi-Johnson/Basic-Network-Topology-Lab/tree/main)
+- [Day 2 | Ethernet Cables, Communication Flow, and Auto MDI-X](https://github.com/Pelumi-Johnson/Ethernet-Cables-Communication-Flow-and-Auto-MDI-X/tree/main)
 
 ---
 
