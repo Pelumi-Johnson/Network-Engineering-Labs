@@ -13,6 +13,7 @@ Hands-on labs built independently to deepen understanding of real-world network 
 
 - [Day 1 | Basic Network Topology Lab](https://github.com/Pelumi-Johnson/Basic-Network-Topology-Lab/tree/main)
 - [Day 2 | Ethernet Cables, Communication Flow, and Auto MDI-X](https://github.com/Pelumi-Johnson/Ethernet-Cables-Communication-Flow-and-Auto-MDI-X/tree/main)
+- [Day 3 | IP Addressing](https://github.com/Pelumi-Johnson/Day-3-IP-Addressing-Identity-of-the-Network-/tree/main)
 
 ---
 
