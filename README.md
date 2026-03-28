@@ -16,6 +16,7 @@ Hands-on labs built independently to deepen understanding of real-world network 
 - [Day 3 | IP Addressing, Identity of the Network](https://github.com/Pelumi-Johnson/Day-3-IP-Addressing-Identity-of-the-Network-/tree/main)
 - [Day 4 | Subnetting, Understanding Network Boundaries](https://github.com/Pelumi-Johnson/Day-4-Subnetting-Understanding-Network-Boundaries-/tree/main)
 - [Day 5 | DHCP Automatic IP Assignment](https://github.com/Pelumi-Johnson/Day-5-DHCP-Automatic-IP-Assignment-/tree/main)
+- [Day 6 | Static vs DHCP, Control vs Automation]()
 
 ---
 
