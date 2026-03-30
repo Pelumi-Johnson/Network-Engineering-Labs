@@ -20,7 +20,7 @@ Implemented dynamic IP assignment and verified connectivity across multiple devi
 ## Lab Categories
 
 ### Core Network Engineering Labs 
-Hands-on labs built independently to deepen understanding of real-world network design and troubleshooting.
+Hands-on network labs focused on designing, building, and troubleshooting real-world network environments.
 
 - [Basic Network Topology Lab](https://github.com/Pelumi-Johnson/Basic-Network-Topology-Lab/tree/main)
 - [Ethernet Cables, Communication Flow, and Auto MDI-X](https://github.com/Pelumi-Johnson/Ethernet-Cables-Communication-Flow-and-Auto-MDI-X/tree/main)
