@@ -6,9 +6,20 @@ These labs cover core networking concepts including VLANs, routing, DHCP, NAT, s
 
 ---
 
+## Featured Network Projects
+
+🔹 VLAN Segmentation  
+Configured VLANs to isolate network traffic and reduce broadcast domains across segmented environments.
+
+🔹 Inter-VLAN Routing (Router-on-a-Stick)  
+Enabled communication between VLANs using trunk ports and router subinterfaces.
+
+🔹 DHCP & IP Addressing  
+Implemented dynamic IP assignment and verified connectivity across multiple devices.
+
 ## Lab Categories
 
-### 🧠 Personal Labs (Self-Directed Learning)
+### Core Network Engineering Labs 
 Hands-on labs built independently to deepen understanding of real-world network design and troubleshooting.
 
 - [Basic Network Topology Lab](https://github.com/Pelumi-Johnson/Basic-Network-Topology-Lab/tree/main)
