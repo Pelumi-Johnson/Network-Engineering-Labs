@@ -62,6 +62,6 @@ The goal is not just to complete labs, but to:
 
 ---
 
-## 🚀 Ongoing Progress
+## Ongoing Progress
 
 New labs are continuously added as I deepen my understanding of networking concepts and real-world implementations.
