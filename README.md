@@ -17,6 +17,8 @@ Hands-on labs built independently to deepen understanding of real-world network 
 - [Day 4 | Subnetting, Understanding Network Boundaries](https://github.com/Pelumi-Johnson/Day-4-Subnetting-Understanding-Network-Boundaries-/tree/main)
 - [Day 5 | DHCP Automatic IP Assignment](https://github.com/Pelumi-Johnson/Day-5-DHCP-Automatic-IP-Assignment-/tree/main)
 - [Day 6 | Static vs DHCP, Control vs Automation](https://github.com/Pelumi-Johnson/Day-6-Static-vs-DHCP-Control-vs-Automation-/tree/main)
+- [Day 7 | VLANs, Network Segmentation]
+
 
 ---
 
