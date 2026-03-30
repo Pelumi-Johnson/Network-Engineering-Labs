@@ -51,7 +51,7 @@ Structured labs completed as part of formal training.
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 This repository demonstrates hands-on experience designing, configuring, and troubleshooting network environments using industry-relevant tools and concepts.
 
