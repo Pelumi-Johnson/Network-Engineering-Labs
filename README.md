@@ -11,13 +11,13 @@ These labs cover core networking concepts including VLANs, routing, DHCP, NAT, s
 ### 🧠 Personal Labs (Self-Directed Learning)
 Hands-on labs built independently to deepen understanding of real-world network design and troubleshooting.
 
-- [Day 1 | Basic Network Topology Lab](https://github.com/Pelumi-Johnson/Basic-Network-Topology-Lab/tree/main)
-- [Day 2 | Ethernet Cables, Communication Flow, and Auto MDI-X](https://github.com/Pelumi-Johnson/Ethernet-Cables-Communication-Flow-and-Auto-MDI-X/tree/main)
-- [Day 3 | IP Addressing, Identity of the Network](https://github.com/Pelumi-Johnson/Day-3-IP-Addressing-Identity-of-the-Network-/tree/main)
-- [Day 4 | Subnetting, Understanding Network Boundaries](https://github.com/Pelumi-Johnson/Day-4-Subnetting-Understanding-Network-Boundaries-/tree/main)
-- [Day 5 | DHCP Automatic IP Assignment](https://github.com/Pelumi-Johnson/Day-5-DHCP-Automatic-IP-Assignment-/tree/main)
-- [Day 6 | Static vs DHCP, Control vs Automation](https://github.com/Pelumi-Johnson/Day-6-Static-vs-DHCP-Control-vs-Automation-/tree/main)
-- [Day 7 | VLANs, Network Segmentation](https://github.com/Pelumi-Johnson/Day-7-VLANs-Network-Segmentation-/tree/main)
+- [Basic Network Topology Lab](https://github.com/Pelumi-Johnson/Basic-Network-Topology-Lab/tree/main)
+- [Ethernet Cables, Communication Flow, and Auto MDI-X](https://github.com/Pelumi-Johnson/Ethernet-Cables-Communication-Flow-and-Auto-MDI-X/tree/main)
+- [IP Addressing, Identity of the Network](https://github.com/Pelumi-Johnson/Day-3-IP-Addressing-Identity-of-the-Network-/tree/main)
+- [Subnetting, Understanding Network Boundaries](https://github.com/Pelumi-Johnson/Day-4-Subnetting-Understanding-Network-Boundaries-/tree/main)
+- [DHCP Automatic IP Assignment](https://github.com/Pelumi-Johnson/Day-5-DHCP-Automatic-IP-Assignment-/tree/main)
+- [Static vs DHCP, Control vs Automation](https://github.com/Pelumi-Johnson/Day-6-Static-vs-DHCP-Control-vs-Automation-/tree/main)
+- [VLANs, Network Segmentation](https://github.com/Pelumi-Johnson/Day-7-VLANs-Network-Segmentation-/tree/main)
 
 
 ---
