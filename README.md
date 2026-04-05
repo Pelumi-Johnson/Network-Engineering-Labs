@@ -30,6 +30,7 @@ Hands-on network labs focused on designing, building, and troubleshooting real-w
 - [Static vs DHCP, Control vs Automation](https://github.com/Pelumi-Johnson/Day-6-Static-vs-DHCP-Control-vs-Automation-/tree/main)
 - [VLANs, Network Segmentation](https://github.com/Pelumi-Johnson/Day-7-VLANs-Network-Segmentation-/tree/main)
 - [Inter-VLAN Routing Implementation Using Router-on-a-Stick](https://github.com/Pelumi-Johnson/Inter-VLAN-Routing-Implementation-Using-Router-on-a-Stick/tree/main)
+- [Access Control Implementation with ACLs Across VLAN Segments](https://github.com/Pelumi-Johnson/Access-Control-Implementation-with-ACLs-Across-VLAN-Segments/tree/main)
 
 ---
 
