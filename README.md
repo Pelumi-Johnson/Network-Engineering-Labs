@@ -29,6 +29,7 @@ Hands-on network labs focused on designing, building, and troubleshooting real-w
 - [VLANs, Network Segmentation](https://github.com/Pelumi-Johnson/Day-7-VLANs-Network-Segmentation-/tree/main)
 - [Inter-VLAN Routing Implementation Using Router-on-a-Stick](https://github.com/Pelumi-Johnson/Inter-VLAN-Routing-Implementation-Using-Router-on-a-Stick/tree/main)
 - [Access Control Implementation with ACLs Across VLAN Segments](https://github.com/Pelumi-Johnson/Access-Control-Implementation-with-ACLs-Across-VLAN-Segments/tree/main)
+- [ Network Troubleshooting and Fault Isolation in a Multi VLAN Environment](https://github.com/Pelumi-Johnson/-Network-Troubleshooting-and-Fault-Isolation-in-a-Multi-VLAN-Environment)
 
 ---
 
