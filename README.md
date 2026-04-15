@@ -30,6 +30,7 @@ Hands-on network labs focused on designing, building, and troubleshooting real-w
 - [Inter-VLAN Routing Implementation Using Router-on-a-Stick](https://github.com/Pelumi-Johnson/Inter-VLAN-Routing-Implementation-Using-Router-on-a-Stick/tree/main)
 - [Access Control Implementation with ACLs Across VLAN Segments](https://github.com/Pelumi-Johnson/Access-Control-Implementation-with-ACLs-Across-VLAN-Segments/tree/main)
 - [ Network Troubleshooting and Fault Isolation in a Multi VLAN Environment](https://github.com/Pelumi-Johnson/-Network-Troubleshooting-and-Fault-Isolation-in-a-Multi-VLAN-Environment)
+- [# Network Address Translation Implementation for External Connectivity](https://github.com/Pelumi-Johnson/-Network-Address-Translation-Implementation-for-External-Connectivity)
 
 ---
 
