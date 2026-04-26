@@ -32,7 +32,7 @@ Hands-on network labs focused on designing, building, and troubleshooting real-w
 - [ Network Troubleshooting and Fault Isolation in a Multi VLAN Environment](https://github.com/Pelumi-Johnson/-Network-Troubleshooting-and-Fault-Isolation-in-a-Multi-VLAN-Environment)
 - [Network Address Translation Implementation for External Connectivity](https://github.com/Pelumi-Johnson/-Network-Address-Translation-Implementation-for-External-Connectivity)
 - [End to End Network Flow Analysis Across Multi Service Environment](https://github.com/Pelumi-Johnson/End-to-End-Network-Flow-Analysis-Across-Multi-Service-Environment/tree/main)
-
+- [End to End Enterprise Network Flow Across Layered Architecture](https://github.com/Pelumi-Johnson/End-to-End-Network-Flow-Analysis-Across-Multi-Service-Environment/tree/main)
 ---
 
 ### 🎓 Per Scholas Labs
