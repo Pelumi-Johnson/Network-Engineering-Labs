@@ -33,6 +33,8 @@ Hands-on network labs focused on designing, building, and troubleshooting real-w
 - [Network Address Translation Implementation for External Connectivity](https://github.com/Pelumi-Johnson/-Network-Address-Translation-Implementation-for-External-Connectivity)
 - [End to End Network Flow Analysis Across Multi Service Environment](https://github.com/Pelumi-Johnson/End-to-End-Network-Flow-Analysis-Across-Multi-Service-Environment/tree/main)
 - [End to End Enterprise Network Flow Across Layered Architecture](https://github.com/Pelumi-Johnson/End-to-End-Enterprise-Network-Flow-Across-Layered-Architecture)
+- [Redundant Network Design with Spanning Tree Failover](https://github.com/Pelumi-Johnson/Redundant-Network-Design-with-Spanning-Tree-Failover/tree/main)
+  
 ---
 
 ### 🎓 Per Scholas Labs
