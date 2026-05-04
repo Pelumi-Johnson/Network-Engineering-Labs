@@ -35,6 +35,7 @@ Hands-on network labs focused on designing, building, and troubleshooting real-w
 - [End to End Enterprise Network Flow Across Layered Architecture](https://github.com/Pelumi-Johnson/End-to-End-Enterprise-Network-Flow-Across-Layered-Architecture)
 - [Redundant Network Design with Spanning Tree Failover](https://github.com/Pelumi-Johnson/Redundant-Network-Design-with-Spanning-Tree-Failover/tree/main)
 - [Enterprise Network Design with VLAN Segmentation Routing ACL NAT DNS and Redundancy](https://github.com/Pelumi-Johnson/Enterprise-Network-Design-with-VLAN-Segmentation-Routing-ACL-NAT-DNS-and-Redundancy)
+- [OSPF Multi Area Network Design and Validation Across Large Scale Topology](https://github.com/Pelumi-Johnson/OSPF-Multi-Area-Network-Design-and-Validation-Across-Large-Scale-Topology)
   
 ---
 
