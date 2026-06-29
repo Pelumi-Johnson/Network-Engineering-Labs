@@ -15,6 +15,9 @@ Enabled communication between VLANs using trunk ports and router subinterfaces.
 🔹 DHCP & IP Addressing  
 Implemented dynamic IP assignment and verified connectivity across multiple devices.
 
+🔹 [Remote Access VPN Lab: Raspberry Pi + WireGuard + Cisco 1941](projects/remote-access-vpn-lab/)  
+Built a secure remote-access VPN into a private Cisco home lab using Raspberry Pi, WireGuard/PiVPN, DuckDNS, Cisco static NAT, double port forwarding, split tunneling, tcpdump validation, and remote Cisco device management through the VPN.
+
 ## Lab Categories
 
 ### Core Network Engineering Labs 
